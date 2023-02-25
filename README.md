@@ -1,4 +1,4 @@
-# Vechile-Classification-
+# Vehicle-Classification-
 Vehicle image classification using computer vision is a popular application of deep learning and machine learning techniques. The goal of this task is to automatically classify images of vehicles into different categories, such as cars, trucks, motorcycles, and buses
 
 1.Data Collection: The first step in vehicle image classification is to gather and preprocess the data. This can include data such as images of different types of vehicles. The data can be collected from various sources, such as online repositories, image databases, or web scraping tools.
